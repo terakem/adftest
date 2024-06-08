@@ -1,0 +1,9 @@
+{
+	"name": "adfdere",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5f6e2a76-7838-4e50-aa27-744c817f49c4",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
